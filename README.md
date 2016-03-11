@@ -1,2 +1,2 @@
 # portfoliosite
-Repository for personal portfolio website.
+Repository for personal portfolio website and blog. 
